@@ -9,4 +9,4 @@ npm start
 ```
 
 ## Screenshot
-<img src="./public/img/weather.png"># Weather-app-nodejs
+<img src="./public/img/weather.png">
